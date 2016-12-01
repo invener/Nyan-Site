@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/invener
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.bentroller.com
+  * I am invener (https://keybase.io/invener) on keybase.
+  * I have a public key ASCINYOO_mrF2QKp_KXONUHE1vsM25WmWMYN8FgfEYxXmwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01208835838efe6ac5d902a9fca5ce3541c4d6fb0cdb95a658c60df0581f118c579b0a",
+            "host": "keybase.io",
+            "kid": "01208835838efe6ac5d902a9fca5ce3541c4d6fb0cdb95a658c60df0581f118c579b0a",
+            "uid": "bf1e2a07374880b0db1df16f6a950c19",
+            "username": "invener"
+        },
+        "service": {
+            "hostname": "www.bentroller.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1473317637,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1473317602,
+        "hash": "7421c0b6797fd27bafa9f2b735372430d13eabd9d931a80452a18fcfc4b9549fc746568e6598ea6f84a06ecf115a5c9de1c362261ce34b4bf3df15fdafb4b6ce",
+        "seqno": 624737
+    },
+    "prev": "fabca8ed52d43d041bbf41fd8137c4186775c91760494fea82ca37d9ddd525ba",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiDWDjv5qxdkCqfylzjVBxNb7DNuVpljGDfBYHxGMV5sKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODgzNTgzOGVmZTZhYzVkOTAyYTlmY2E1Y2UzNTQxYzRkNmZiMGNkYjk1YTY1OGM2MGRmMDU4MWYxMThjNTc5YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODgzNTgzOGVmZTZhYzVkOTAyYTlmY2E1Y2UzNTQxYzRkNmZiMGNkYjk1YTY1OGM2MGRmMDU4MWYxMThjNTc5YjBhIiwidWlkIjoiYmYxZTJhMDczNzQ4ODBiMGRiMWRmMTZmNmE5NTBjMTkiLCJ1c2VybmFtZSI6ImludmVuZXIifSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5iZW50cm9sbGVyLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzMzMTc2MzcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MzMxNzYwMiwiaGFzaCI6Ijc0MjFjMGI2Nzk3ZmQyN2JhZmE5ZjJiNzM1MzcyNDMwZDEzZWFiZDlkOTMxYTgwNDUyYTE4ZmNmYzRiOTU0OWZjNzQ2NTY4ZTY1OThlYTZmODRhMDZlY2YxMTVhNWM5ZGUxYzM2MjI2MWNlMzRiNGJmM2RmMTVmZGFmYjRiNmNlIiwic2Vxbm8iOjYyNDczN30sInByZXYiOiJmYWJjYThlZDUyZDQzZDA0MWJiZjQxZmQ4MTM3YzQxODY3NzVjOTE3NjA0OTRmZWE4MmNhMzdkOWRkZDUyNWJhIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAADuBaW97XgQghDyR2dFX4lclA41pf3eNDH3dDDTBhxUzJNViHD157n9CXGQqzfEClXMu3PaTi33ZSTDKp8qHD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILbFKin39dc3xojEEyjmrL3k3elD+m7JNEaVTAQXkVINo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/invener
+
+==================================================================
